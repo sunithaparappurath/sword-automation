@@ -1,0 +1,17 @@
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\SwordAutomation.deps.json
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\SwordAutomation.runtimeconfig.json
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\SwordAutomation.runtimeconfig.dev.json
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\SwordAutomation.dll
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\SwordAutomation.pdb
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\Common.dll
+C:\Docs\Important\sword-automation\sword-automation\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.csprojAssemblyReference.cache
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.csproj.CoreCompileInputs.cache
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.AssemblyInfoInputs.cache
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.AssemblyInfo.cs
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.csproj.CopyComplete
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.dll
+C:\Docs\Important\sword-automation\sword-automation\obj\Debug\netcoreapp2.1\SwordAutomation.pdb

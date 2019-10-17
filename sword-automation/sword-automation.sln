@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwordAutomation", "sword-automation\SwordAutomation.csproj", "{9BCE2E38-091F-42DC-9EEA-FFE825C7EF4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{48122EDA-9323-4F04-9FE1-946337335902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCE2E38-091F-42DC-9EEA-FFE825C7EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCE2E38-091F-42DC-9EEA-FFE825C7EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCE2E38-091F-42DC-9EEA-FFE825C7EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCE2E38-091F-42DC-9EEA-FFE825C7EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48122EDA-9323-4F04-9FE1-946337335902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48122EDA-9323-4F04-9FE1-946337335902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48122EDA-9323-4F04-9FE1-946337335902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48122EDA-9323-4F04-9FE1-946337335902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2D76AB-3BCC-488B-9533-3F253AD4134D}
+	EndGlobalSection
+EndGlobal
